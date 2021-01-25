@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Sharlee Raye Crews</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Data Science Portfolio on Sharlee Raye Crews</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Jan 2021 11:13:32 -0400</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Visual Analytics</title>
+      <link>https://example.com/post/project1/</link>
+      <pubDate>Mon, 18 Jan 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://example.com/post/project1/</guid>
+      <description>FL COVID-19 Data and Surveillance is a visual analytic that really caught my eye. It not only shows FL’s cases, but it also provides the numbers by counties, and also compares the US with world cases. It provides information through visuals that are easy to interpret for the viewer to gain knowledge through the charts and models.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/contact/</guid>
+      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
+Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+  </channel>
+</rss>
